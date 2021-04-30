@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+}
+
+h1{
+font-size: 30px;
+color: teal;
+}
+h2{
+color: red;
+font-size: 20px;
+}
+.big{
+font-size: 40px;
+}
+.green{
+color: green;
+}
+h1 span{
+color: violet;
+}
